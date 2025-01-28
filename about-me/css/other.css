@@ -339,4 +339,32 @@
 }
 
 
- 
+ .picture-title{
+  font-size: x-large;
+  text-align: center;
+ }
+
+ #nasa-widget {
+  display: inline-block;
+  height: 100px;
+  padding: 100px;
+  padding-top: 0px;
+
+ }
+
+ #night-sky-widget{
+  display: inline-block;
+  height: 100px;
+  padding: 100px;
+  padding-top: 0px;
+ }
+
+ #disclaimer p{
+  background-color: gray;
+  color: white;
+  text-align: center;
+ }
+
+
+
+
